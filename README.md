@@ -18,9 +18,3 @@ Abre `index.html` directamente en un navegador. No es necesario instalar paquete
 El botón procesa una orden de ejemplo con bebida, pizza y postre. Cada pedido tiene una probabilidad del 45% de fallar al inicio; si falla, se muestra un mensaje y el botón vuelve a habilitarse. Si continúa, se muestran las etapas de preparación y el pedido finaliza.
 
 El porcentaje se puede cambiar en `script.js`, modificando `PROBABILIDAD_ERROR`. Por ejemplo, `0.20` representa un 20% de probabilidad.
-
-## Personalización
-
-- Edita los productos de ejemplo en el objeto `miOrden` de `script.js`.
-- Cambia los colores y el diseño en `styles.css`.
-- Modifica los textos y el contenido en `index.html`.
