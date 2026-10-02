@@ -1,0 +1,1 @@
+Coloca aquí las imágenes de la pizzería. Para la foto de portada, usa el nombre `pizza-portada.jpg`.
